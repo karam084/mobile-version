@@ -92,7 +92,6 @@ body {
   line-height: 24px;
   color: #344563;
   margin-left: 10px;
-  transition: font-size 1s;
 }
 
 .my_details:hover {
