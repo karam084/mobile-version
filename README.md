@@ -19,7 +19,7 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/77942746/148543417-6bcb77f7-91ca-4f20-a37f-8796300092a7.png)
 
-Additional description about the project and its features.
+Additional description of the project and its features.
 
 ## Built With
 
@@ -39,9 +39,9 @@ Additional description about the project and its features.
 
 ## Acknowledgments
 
-Thank to Microverse.
+Thank Microverse.
 
-This Portfolio Project was build using Figma templates under continuous supervision of Microverse team!!
+This Portfolio Project was built using Figma templates under the continuous supervision of Microverse team!!
 
 ## 📝 License
 
